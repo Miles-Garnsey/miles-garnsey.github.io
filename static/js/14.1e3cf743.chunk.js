@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{82:function(e,t,n){"use strict";n.r(t),t.default={title:"Welcome, please don't spill crumbs on the carpet.",tags:["Scala","Data Science","Data Engineering","Kubernetes","Kafka"],spoiler:"A gripping introduction to the world of data science, engineering, and distributed systems - and the bitter struggles of making them work.",getContent:function(){return n.e(10).then(n.bind(null,52))}}}}]);
+//# sourceMappingURL=14.1e3cf743.chunk.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{87:function(e,n,o){"use strict";o.r(n),n.default={title:"Golang, generics and Kubernetes operator tooling I. Embedded interfaces won't save you.",tags:["Kubernetes","golang","generics","kubebuilder","controller-gen","Kubernetes operators","k8ssandra-operator"],spoiler:"Part I of of a series on golang generics and their applications in Kubernetes operator development.",getContent:function(){return o.e(8).then(o.bind(null,71))}}}}]);
+//# sourceMappingURL=19.51218f78.chunk.js.map
